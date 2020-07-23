@@ -1,14 +1,12 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "job_id": {
-    "id": "121545646546546546134646"
-  },
+	"posts": [{
+		"id": 1,
+		"title": "hello"
+	}],
+	"profile": {
+		"name": "typicode"
+	},
+	"job_id": {
+		"id": "121545646546546546134646"
+	}
 }
